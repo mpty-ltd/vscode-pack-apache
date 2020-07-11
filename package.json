@@ -1,0 +1,33 @@
+{
+  "name": "pack-apache",
+  "displayName": "Apache Extension Pack",
+  "version": "0.1.0",
+  "description": "Collection of extensions to assist with editing Apache config files.",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "apache",
+    "conf",
+    "highlighting",
+    "httpd",
+    "snippets"
+  ],
+  "bugs": {
+    "url": "https://github.com/mpty-ltd/vscode-pack-apache/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpty-ltd/vscode-pack-apache/"
+  },
+  "license": "MIT",
+  "publisher": "mpty",
+  "extensionPack": [
+    "eiminsasete.apacheconf-snippets",
+    "mrmlnc.vscode-apache"
+  ],
+  "engines": {
+    "vscode": "^1.9.0"
+  },
+  "icon": "images/icon.png"
+}
