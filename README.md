@@ -5,12 +5,8 @@ essential syntax highlighting and snippets to help write configuration files.
 
 ## Extensions Included
 
-* [Apache Conf](
-  https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) -
-  Syntax highlighter for Apache configuration files.
-* [Apache Conf Snippets](
-  https://marketplace.visualstudio.com/items?itemName=eiminsasete.apacheconf-snippets) -
-  Apache Conf Snippets.
+* [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Syntax highlighter for Apache configuration files.
+* [Apache Conf Snippets](https://marketplace.visualstudio.com/items?itemName=eiminsasete.apacheconf-snippets) - Apache Conf Snippets.
 
 ## Syntax Highlighting
 
